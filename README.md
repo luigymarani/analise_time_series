@@ -1,0 +1,1 @@
+Análise e manipulação de 7 bases de dados (séries temporais) diferentes com Python. Módulos Python usados: Pandas, Seaborn, Matplotlib, Statsmodels. Contém comparações de gráficos time-series (séries temporais), técnicas de decomposição e normalização de dados, análise da autocorrelação, customização de gráficos, etc.
